@@ -106,6 +106,7 @@ main{
 
 #sobre_nos{
     margin-bottom: 50px;
+    text-align: center;
 }
 
 #sobre_nos h1{
@@ -115,6 +116,12 @@ main{
     font-size:60px;
     margin-bottom: 50px;
     font-style: italic;
+}
+
+#sobre_nos img{
+    text-align: center;
+    margin: 60px;
+    border:  1px solid #b08259;
 }
 
 /* CARDÁPIO */
@@ -369,6 +376,10 @@ footer p{
     #texto_sobre{
         font-size: 40px;
     }
+
+    #sobre_nos img{
+        width: 800px;
+    }
 }
 
 @media(max-width: 1000px){
@@ -381,6 +392,25 @@ footer p{
     #texto_sobre{
         font-size: 30px;
     }
+
+    #sobre_nos img{
+        width: 700px;
+    }
+}
+
+@media(max-width: 850px){
+
+    #sobre_nos img{
+        width: 600px;
+    }
+}
+
+@media(max-width: 700px){
+
+    #sobre_nos img{
+        width: 380px;
+        margin: 30px;
+    }
 }
 
 @media(max-width: 480px){
@@ -392,6 +422,11 @@ footer p{
     #texto_sobre{
         font-size: 22px;
         width: 90%;
+    }
+
+    #sobre_nos img{
+        width: 310px;
+        margin: 20px;
     }
 }
 
