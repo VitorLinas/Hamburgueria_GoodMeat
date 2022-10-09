@@ -570,3 +570,15 @@ footer p{
         }
     }
     
+
+
+
+
+
+    @media(min-width: 1100px) and (max-height: 900px) and (max-width: 1400px){
+        header{
+            background-color: red;
+        }
+
+        
+    }
