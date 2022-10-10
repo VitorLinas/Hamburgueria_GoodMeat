@@ -400,7 +400,7 @@ footer p{
 
 /* RESPONSIVIDADE SOBRE NÓS */
 
-@media(max-width: 1250px){
+@media(max-width: 1350px){
     #sobre_nos h1{
         font-size:  45px;
     }
@@ -470,7 +470,7 @@ footer p{
 
 /* RESPONSIVIDADE CARDÁPIO */
 
-@media(max-width: 1250px){
+@media(max-width: 1350px){
     #cardapio h1{
         font-size: 45px;
     }
@@ -528,7 +528,7 @@ footer p{
 /* RESPONSIVIDADE FORMULÁRIO */
 
 
-@media(max-width: 1250px){
+@media(max-width: 1350px){
     form h1{
         font-size: 45px; 
     }
