@@ -464,7 +464,7 @@ footer p{
 
 @media(min-width: 1100px) and (max-height: 900px) and (max-width: 1400px){
     #sobre_nos img{
-        width: 600px;
+        width: 750px;
     }
 }
 
@@ -520,7 +520,7 @@ footer p{
 
 @media(min-width: 1100px) and (max-height: 900px) and (max-width: 1400px){
     #cardapio img{
-        width: 600px;
+        width: 750px;
     }
 }
 
