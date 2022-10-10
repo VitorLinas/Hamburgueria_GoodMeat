@@ -400,9 +400,10 @@ footer p{
 
 /* RESPONSIVIDADE SOBRE NÓS */
 
-@media(max-width: 1350px){
+@media(max-width: 1400px){
     #sobre_nos h1{
         font-size:  45px;
+        color: blue;
     }
 
     #texto_sobre{
