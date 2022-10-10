@@ -403,7 +403,6 @@ footer p{
 @media(max-width: 1400px){
     #sobre_nos h1{
         font-size:  45px;
-        color: blue;
     }
 
     #texto_sobre{
@@ -471,7 +470,7 @@ footer p{
 
 /* RESPONSIVIDADE CARDÁPIO */
 
-@media(max-width: 1350px){
+@media(max-width: 1400px){
     #cardapio h1{
         font-size: 45px;
     }
@@ -529,7 +528,7 @@ footer p{
 /* RESPONSIVIDADE FORMULÁRIO */
 
 
-@media(max-width: 1350px){
+@media(max-width: 1400px){
     form h1{
         font-size: 45px; 
     }
