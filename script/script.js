@@ -5,5 +5,12 @@ function cadastrar(){
 window.sr = ScrollReveal({reset: true});
 sr.reveal('#cardapio img', {
     duration: 2000,
-    rotate:{x:0, y:80, z: 0}
+    rotate:{x:0, y:80, z: 0},
+    once: true,
+    delay: 300,
+    reset: false
 });
+
+
+
+
